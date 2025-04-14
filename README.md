@@ -31,13 +31,13 @@
 <!-- 背景图 -->
 <br />
 <br />
-<img align="right" alt="GIF" src="./assets/bg.png" width="400"/>
+<img align="right" alt="GIF" src="[https://i1.hdslb.com/bfs/archive/550e5559bddd52d60271a00562ede720682e9d74.jpg]" width="400"/>
 
 <!-- 关于我 -->
 <h2 height="200px" align="center">🎉 关于我</h2>
 <br />
 
-- 🔭  我十分热爱工作和钻研前端技术[DXY](https://dxy.com/)~
+- 🔭  我十分热爱工作和钻研前端技术~
 - 🏋 热爱健身，打篮球。喜欢打篮球的来约一场 ~
 - 👨‍💻 编程爱好者，喜欢和大家分享技术。令人受益匪浅 ~
 - 👻 我热爱分享哦，掘金的CSDN都有在管理 [juejin]([https://juejin.cn/user/1176897909428464])
