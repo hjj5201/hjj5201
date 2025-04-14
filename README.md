@@ -31,10 +31,11 @@
 <!-- 背景图 -->
 <br />
 <br />
-<img align="right" alt="JPG" src="https://i1.hdslb.com/bfs/archive/550e5559bddd52d60271a00562ede720682e9d74.jpg" width="450"/>
+
 
 <!-- 关于我 -->
 <h2 height="200px" align="center">🎉 关于我</h2>
+<img align="right" alt="JPG" src="https://i1.hdslb.com/bfs/archive/550e5559bddd52d60271a00562ede720682e9d74.jpg" width="450"/>
 <br />
 
 - 🔭  我十分热爱工作和钻研前端技术~
